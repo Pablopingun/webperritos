@@ -19,4 +19,15 @@ Nuestra página _web_ muestra información sobre los tipos de **razas de perros*
 [visita a los perros](https://es.wikipedia.org/wiki/Canis_familiaris)
 
 ## El perro más bonito del mundo
-![alt](https://github.com/Pablopingun/webperritos/blob/master/berna.jpg)
+
+![alt](berna.jpg)
+
+## Tabla de peso en función de edad y raza
+ |edad | pequeño | mediano | grande |
+ |----:|:------:|:--------:|:----:|
+ |5|36|37|40|
+
+## Calendario de vacunación de tu perro
+
+
+   

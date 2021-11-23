@@ -46,4 +46,6 @@ Nuestra página _web_ muestra información sobre los tipos de **razas de perros*
  
  ---
  
- <img width="70" src=" https://www.zooplus.es/magazine/wp-content/uploads/2017/10/Mi-perro-ladra-mucho"/>
+ <img width="70" src="ladrando.jfif"/>
+ 
+ ![alt](banner.svg)

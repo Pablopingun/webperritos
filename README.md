@@ -19,4 +19,4 @@ Nuestra página _web_ muestra información sobre los tipos de **razas de perros*
 [visita a los perros](https://es.wikipedia.org/wiki/Canis_familiaris)
 
 ## El perro más bonito del mundo
-![imagen](https://github.com/Pablopingun/webperritos/blob/master/berna.jpg)
+![alt](https://github.com/Pablopingun/webperritos/blob/master/berna.jpg)

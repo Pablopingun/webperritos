@@ -29,5 +29,21 @@ Nuestra página _web_ muestra información sobre los tipos de **razas de perros*
 
 ## Calendario de vacunación de tu perro
 
+- [x] de 6 a 8 semanas
+- [ ] de 8 a 10 semanas
+- [ ] de 12 a 14 semanas
+- [ ] de 14 a 16 semanas
+- [x] de 6 a 8 semanas
 
-   
+## Programa que ladra
+```java
+ class Ladra{
+ public static void main(String[] arg){
+ System.out.println("guau");
+  }
+ }
+ ```
+ 
+ ---
+ 
+ <img width="70" src=" https://www.zooplus.es/magazine/wp-content/uploads/2017/10/Mi-perro-ladra-mucho"/>
